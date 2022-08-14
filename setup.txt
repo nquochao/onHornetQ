@@ -1,0 +1,3 @@
+
+mvn eclipse:eclipse
+Main class: HornetQMessageDemoFromOlivia.ornetQMessageDemoFromOlivia
